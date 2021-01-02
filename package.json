@@ -1,9 +1,9 @@
 {
-  "name": "sp18-bse-066-a-final",
+  "name": "sp18-bse-002-b-final",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "@hapi/joi": "^17.1.1",
